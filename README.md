@@ -75,13 +75,13 @@ Their Marketing team is responsible for increasing brand awareness, market share
 | Non-binary  | Rarely            | 20%        |
 
 #### Age Group Patterns
-| Age Group | Frequency         | Preferred Channel   |
-|-----------|-------------------|---------------------|
-| 15-18     | 2-3 times/week    | TikTok/Instagram    |
-| 19-30     | 2-3 times/month   | Podcast sponsorships|
-| 31-45     | 2-3 times/week    | YouTube/Google Ads  |
-| 46-65     | Once a week       | Email Marketing     |
-| 65+       | 2-3 times/week    | TV/Cable            |
+| Age Group | Frequency         | 
+|-----------|-------------------|
+| 15-18     | 2-3 times/week    |
+| 19-30     | 2-3 times/month   | 
+| 31-45     | 2-3 times/week    | 
+| 46-65     | Once a week       | 
+| 65+       | 2-3 times/week    |
 
 ### 4. Product Attributes
 #### Ingredient Preferences
