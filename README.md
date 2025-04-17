@@ -31,6 +31,76 @@ Their Marketing team is responsible for increasing brand awareness, market share
     * Evaluate new product performance.
     * Identify top-performing products.
 
+## 🔍 Detailed Findings
+
+### 1. Brand Performance Analysis
+#### Market Share Distribution
+| Brand       | Respondents | Market Share | Primary Selection Factor |
+|-------------|------------|-------------|--------------------------|
+| Cola-Coka   | 2,538      | 25.4%       | Availability             |
+| Bepsi       | 2,112      | 21.1%       | Availability             |
+| Gangster    | 1,854      | 18.5%       | Brand Reputation         |
+| Blue Bull   | 1,058      | 10.6%       | Availability             |
+| Others      | 2,439      | 24.4%       | Various                  |
+
+#### Key Observations:
+- Top 3 brands control 65% of market
+- Availability drives 57% of primary brand selections
+- Gangster demonstrates strong brand equity advantage
+
+### 2. Marketing Channel Effectiveness
+#### Overall Performance
+| Channel            | Respondents Reached | Effectiveness Score* |
+|--------------------|---------------------|----------------------|
+| Online Ads         | 4,020               | 92                   |
+| TV Commercials     | 2,688               | 85                   |
+| Outdoor Billboards | 1,226               | 72                   |
+| Print Media        | 841                 | 68                   |
+| Other              | 1,225               | 65                   |
+
+*Effectiveness Score (0-100) based on conversion metrics
+
+#### Demographic Breakdown:
+- **15-18 Year Olds**: TV commercials (78% recall rate)
+- **19-30 Year Olds**: Social media ads (84% engagement)
+- **31-45 Year Olds**: YouTube pre-roll (89% completion rate)
+- **65+**: Local newspaper inserts (72% response)
+
+### 3. Consumer Demographics
+#### Consumption Frequency
+| Demographic | Frequency         | Percentage |
+|-------------|-------------------|------------|
+| Female      | 2-3 times/week    | 42%        |
+| Male        | 2-3 times/month   | 38%        |
+| Non-binary  | Rarely            | 20%        |
+
+#### Age Group Patterns
+| Age Group | Frequency         | Preferred Channel   |
+|-----------|-------------------|---------------------|
+| 15-18     | 2-3 times/week    | TikTok/Instagram    |
+| 19-30     | 2-3 times/month   | Podcast sponsorships|
+| 31-45     | 2-3 times/week    | YouTube/Google Ads  |
+| 46-65     | Once a week       | Email Marketing     |
+| 65+       | 2-3 times/week    | TV/Cable            |
+
+### 4. Product Attributes
+#### Ingredient Preferences
+1. Caffeine (3,896 mentions)
+   - Energy boost (87%)
+   - Mental focus (76%)
+2. Vitamins (2,534)
+   - Health perception (82%)
+   - Recovery benefits (68%)
+
+#### Packaging Trends
+| Type                   | Respondents | Key Drivers                     |
+|------------------------|-------------|---------------------------------|
+| Compact cans           | 3,984       | Portability (92%), Convenience  |
+| Innovative bottles     | 3,047       | Design appeal (88%), Ergonomics |
+| Collectible packaging  | 1,501       | Limited editions (79%)         |
+| Eco-friendly          | 983         | Sustainability (65%)           |
+
+
 
 
 ##  Anlysis from the dataset
@@ -253,76 +323,6 @@ ORDER BY Taste_experience DESC
 ```
 **Objective:** Check where should be focus more. (Branding/taste/availability)
 
-
-
-## 🔍 Detailed Findings
-
-### 1. Brand Performance Analysis
-#### Market Share Distribution
-| Brand       | Respondents | Market Share | Primary Selection Factor |
-|-------------|------------|-------------|--------------------------|
-| Cola-Coka   | 2,538      | 25.4%       | Availability             |
-| Bepsi       | 2,112      | 21.1%       | Availability             |
-| Gangster    | 1,854      | 18.5%       | Brand Reputation         |
-| Blue Bull   | 1,058      | 10.6%       | Availability             |
-| Others      | 2,439      | 24.4%       | Various                  |
-
-#### Key Observations:
-- Top 3 brands control 65% of market
-- Availability drives 57% of primary brand selections
-- Gangster demonstrates strong brand equity advantage
-
-### 2. Marketing Channel Effectiveness
-#### Overall Performance
-| Channel            | Respondents Reached | Effectiveness Score* |
-|--------------------|---------------------|----------------------|
-| Online Ads         | 4,020               | 92                   |
-| TV Commercials     | 2,688               | 85                   |
-| Outdoor Billboards | 1,226               | 72                   |
-| Print Media        | 841                 | 68                   |
-| Other              | 1,225               | 65                   |
-
-*Effectiveness Score (0-100) based on conversion metrics
-
-#### Demographic Breakdown:
-- **15-18 Year Olds**: TV commercials (78% recall rate)
-- **19-30 Year Olds**: Social media ads (84% engagement)
-- **31-45 Year Olds**: YouTube pre-roll (89% completion rate)
-- **65+**: Local newspaper inserts (72% response)
-
-### 3. Consumer Demographics
-#### Consumption Frequency
-| Demographic | Frequency         | Percentage |
-|-------------|-------------------|------------|
-| Female      | 2-3 times/week    | 42%        |
-| Male        | 2-3 times/month   | 38%        |
-| Non-binary  | Rarely            | 20%        |
-
-#### Age Group Patterns
-| Age Group | Frequency         | Preferred Channel   |
-|-----------|-------------------|---------------------|
-| 15-18     | 2-3 times/week    | TikTok/Instagram    |
-| 19-30     | 2-3 times/month   | Podcast sponsorships|
-| 31-45     | 2-3 times/week    | YouTube/Google Ads  |
-| 46-65     | Once a week       | Email Marketing     |
-| 65+       | 2-3 times/week    | TV/Cable            |
-
-### 4. Product Attributes
-#### Ingredient Preferences
-1. Caffeine (3,896 mentions)
-   - Energy boost (87%)
-   - Mental focus (76%)
-2. Vitamins (2,534)
-   - Health perception (82%)
-   - Recovery benefits (68%)
-
-#### Packaging Trends
-| Type                   | Respondents | Key Drivers                     |
-|------------------------|-------------|---------------------------------|
-| Compact cans           | 3,984       | Portability (92%), Convenience  |
-| Innovative bottles     | 3,047       | Design appeal (88%), Ergonomics |
-| Collectible packaging  | 1,501       | Limited editions (79%)         |
-| Eco-friendly          | 983         | Sustainability (65%)           |
 
 
 
